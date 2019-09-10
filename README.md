@@ -21,6 +21,6 @@ Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
 * Comentario de @geofis: Al igual que en el caso anterior, una pregunta interesante, es importante definir qué estructuras artificales. Añadir el espacio faltante en "hormigasen" y corregir "are"
 
-¿Cuáles son las diferencias entre las hormigas en las areas con menor actividad humana y las de mayor?
+¿Cuáles son las diferencias entre las hormigas en las areas que son zonas de descanso y las areas que usualmente se encuentran sin personas?
 
 * Comentario de @geofis: Me parece interesante la pregunta, sólo que tendrás que definir cómo medirás "actividad humana". Cuando puedan ver los formularios de ODK podremos discutir más sobre ello.
